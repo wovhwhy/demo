@@ -44,6 +44,10 @@ menu:
         name: tags
         theme: solid
         link: /tags
+    hhh:
+        name: hhh
+        theme: solid
+        link: /hhh
 
 
 # Side info card
